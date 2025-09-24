@@ -18,16 +18,24 @@ Mon-Aid is a real-time disaster-relief donation platform built on the Monad bloc
 - Immutable transparency builds trust
 
 ### Pitch (Story)
-In 2022, Assam floods stranded millions. Rina, a mother of two, waited three days on a rooftop. International pledges took weeks to arrive. Imagine if people could have sent $1 instantly to her phone wallet while she was stranded — usable in seconds for food or a bus ticket.
+In 2022, when floods devastated parts of Assam in Northeast India, entire villages were submerged. Families were trapped on rooftops, relief camps overflowed, and clean water was almost impossible to find.
 
-Mon-Aid makes this possible: micro-donations processed in under a second on Monad, going directly to verified victims and NGOs, with government + community validation to prevent fraud.
+I remember a story of Rina, a mother of two, who waited three days with her children before she could even get a packet of dry food. Donors around the world pledged millions, but the money took weeks to filter through agencies and reach the ground. For Rina, those first 72 hours were the difference between survival and despair.
 
-With Monad’s power, we’re building a future where no mother like Rina waits days for help. She can get it in seconds.
+This is what Mon-Aid changes.
+
+- People anywhere can send $1 or even $0.01 instantly during a disaster.
+- On the Monad blockchain, funds arrive in under a second — directly into verified relief wallets.
+- Victims can use donations immediately for clean water, food packets, medicines, or temporary shelter.
+- Transparent, on-chain tracking shows exactly where every cent goes.
+
+With Mon-Aid, global compassion isn’t slowed down by paperwork or delays — it becomes a real-time lifeline. Because when disaster strikes, help delayed is help denied.
 
 ### UI Concepts
-Below are concept images included in `/frontend/public` that illustrate the brand and dashboards:
-- `ui1.png`, `ui5.png` (primary)
-- `ui2.png`, `ui3.png`, `ui4.png` (additional)
+Primary concepts first, followed by additional views (all in `/frontend/public`):
+- `ui1.png`, `ui5.png`
+- `ui2.png`, `ui3.png`, `ui4.png`
+
 Open the in-app page `/pitch` to view embedded concepts.
 
 ## Prereqs
