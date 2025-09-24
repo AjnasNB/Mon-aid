@@ -38,6 +38,22 @@ Primary concepts first, followed by additional views (all in `/frontend/public`)
 
 Open the in-app page `/pitch` to view embedded concepts.
 
+#### Screenshots
+
+Primary concepts:
+
+![UI 1](./ui1.png)
+
+![UI 5](./ui5.png)
+
+Additional views:
+
+![UI 2](./ui2.png)
+
+![UI 3](./ui3.png)
+
+![UI 4](./ui4.png)
+
 ## Prereqs
 - Node.js 18+
 - pnpm/yarn/npm
